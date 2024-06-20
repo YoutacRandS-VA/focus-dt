@@ -32,6 +32,6 @@
     "iterable-query": "^1.0.0-pre.15",
     "vscode-chrome-debug-core": "^6.7.50",
     "winreg": "^1.2.4",
-    "yargs": "^13.2.4"
+    "yargs": "^17.7.2"
   }
 }
